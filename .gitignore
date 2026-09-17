@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 .env
 *.key
 *.pem
 node_modules/
-=======
+
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -37,4 +36,3 @@ build/
 
 ### VS Code ###
 .vscode/
->>>>>>> b0babc3 (projet initial tekbook)
